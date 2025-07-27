@@ -2,7 +2,7 @@
 This project focuses on building a machine learning-based system that can recognize various hand gestures in real time or from static images. The system uses computer vision for hand detection and preprocessing, and a trained classifier (CNN/SVM) for gesture classification.
 
 ## Visualization of CNN Architecture
-![Clustering Visualization](images/CNN_Architecture.jpg) 
+![Clustering Visualization](images/CNN_Architecture.png) 
 
 ## 🔍 Features:
 Real-time video and static image input support
